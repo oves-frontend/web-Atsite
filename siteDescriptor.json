@@ -1,0 +1,50 @@
+{
+    "siteName": "OVES",
+    "siteURL": "www.omivoltaic.com",
+    "siteStyle": "IoT",
+    "siteMeta": "Omnivoltaic",
+    "header": {
+        "logo": "/image/logoFile.jpg",
+        "searchBar": true,
+        "navItems": [
+            {
+                "Home": "home"
+            },
+            {
+                "Blog": "blog"
+            },
+            {
+                "Products":
+                [
+                    {
+                        "SHS": "shs"
+                    },
+                    {
+                        "Lantern": "lantern"
+                    }
+                ]
+            }
+        ]
+    },
+    "sider": {},
+    "footer": {},
+    "pages": [
+        {
+            "pageName": "home",
+            "sections": [
+                {
+                    "sectionTitle": "firstSection",
+                    "columns": 2,
+                    "block1/2": "some text",
+                    "block2/2": "/images/picture.jpg"
+                },
+                {
+                    "sectionTitle": "secondSection",
+                    "columns": 2,
+                    "block1/2": "some text",
+                    "block2/2": "/images/picture.jpg"
+                }
+            ]
+        }
+    ]
+}
